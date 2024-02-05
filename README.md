@@ -1,27 +1,23 @@
-# App
+<h1 align="center">Social Links Profile</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
+<p align="center">
+  <img alt="social links profile desktop" src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/sfsa14rwjz0wp7lzel2x.jpg" width="25%">
+   <img alt="social links profile mobile" src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/k7iuusx1uowga0zz24dx.jpg" width="25%">
+</p>
 
-## Development server
+<br>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 💻 Technologies
 
-## Code scaffolding
+This project was developed with the following technologies:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- [Angular](https://angular.io/) (HTML, Sass, TypeScript)
+- [Node e NPM](https://nodejs.org/)
 
-## Build
+## 🖼️ Project
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+The project is a template for a social media links page, similar to [carrd](carrd.co). This challenge was taken from the [Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ) website
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Made with 💜 by Stefany (＾-＾)
